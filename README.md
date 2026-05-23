@@ -19,9 +19,12 @@ An advanced AI-powered system to detect hallucinations in Large Language Models 
 - Sentence Transformers
 - Hugging Face Models
 - Scikit-learn
-- Wikipedia API
+- Wikipedia 
 - Groq API
 - Gemini API
+- Cerabras API
+- Cloudflare API
+- Mistral API
 
 ## Project Structure
 
